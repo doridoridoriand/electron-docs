@@ -7,9 +7,19 @@ TL;DR
 
 Electronはクロスプラットフォームアプリケーションシェル。もともとはChromium/Node.jsのevent loop integrationやネイティブAPIをAtomエディタで使うために作られました。
 
-* Electron Training
+* Documentation for Electron
  * Electronとは
- * Electronの構造
+ * Electronの構成
+ * アプリケーションの設計
+ * 実行プロセス
+ * Main Process と Renderer Processのブリッジ
+ * モジュール
+ * 新しいDOM要素作成
+ * 内部構成
+  * Main Process と Renderer Process
+  * Sandboxing化されない
+  * ChromiumとNode.js
+  * Main Process と Renderer Processのブリッジ
 * リソース
  * 情報を得る方法
  * 類似ツール
