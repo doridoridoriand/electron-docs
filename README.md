@@ -1,6 +1,8 @@
 Documentation for Electron
 ==========================
 
+TL;DR
+
 >Electron is the cross-platform application shell we originally built for the Atom editor to handle the Chromium/Node.js event loop integration and native APIs.
 
 Electronはクロスプラットフォームアプリケーションシェル。もともとはChromium/Node.jsのevent loop integrationやネイティブAPIをAtomエディタで使うために作られました。
@@ -48,7 +50,7 @@ Electronと同じように以下のソフトウェアを使うことで、クロ
 * [GitHub、JavaScriptでデスクトップアプリが作れるライブラリAtom Shellを、Electronに改称](http://codezine.jp/article/detail/8678) - 公式リリースの簡単な日本語訳のようなものです。
 * [ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs) - Atom-shellの構造について書かれたドキュメントです。
 
-## ドキュメントの翻訳方法について
+## ドキュメントの翻訳方法
 
 `atom/electron.atom.io`で`atom/electron/docs`内の日本語翻訳については「[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)」で翻訳する手順は以下のようになっております。興味がある方はぜひ参加してください。
 
@@ -72,10 +74,22 @@ $ git checkout -b translate/<document>-jp
 $ cp /path/to/<document>.md /path/to/<document>-jp.md
 ```
 
+## コントリビュート
+
+このドキュメントの分かりにくい部分や質問がある際は、`README.md`内の該当箇所をコピーしてください。その後その文とともにissueを作成してください。気軽にissueを作成していただければ幸いです。
+
+例：
+
+```
+> Electronはクロスプラットフォームアプリケーションシェル...
+
+Electronとは何ですか？
+```
 
 ## タスク
 
-* [ ] 各ソフトウェアを比較したものを作成する
+* [ ] 各ソフトウェアを比較した表作成
+* [ ] コントリビュートファイル作成
 
 ## ライセンス
 
