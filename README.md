@@ -14,12 +14,15 @@ Electronはクロスプラットフォームアプリケーションシェル。
  * 情報を得る方法
  * 類似ツール
  * 参考サイト
+* その他
+ * ドキュメントの翻訳方法
 * タスク
+* コントリビュート
 * ライセンス
 
 ## Electronの構造
 
-## 情報を得る方法
+## リソース
 
 Electronについて調べる際は以下のサイトがとても参考になります:
 
@@ -36,6 +39,12 @@ Electronの前の名前はAtom-shellです。名前を変えただけなので�
 
 **募集**：現在、[`atom/electron.atom.io`](https://github.com/atom/electron)で`atom/electron/docs`内の日本語翻訳について[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)で話し合っています。興味ある方はぜひ参加してください。
 
+### 参考サイト
+
+* [Atom Shell is now Electron](http://blog.atom.io/2015/04/23/electron.html) - Atom-shellからElectronに名前を変更したことのリリースです。
+* [GitHub、JavaScriptでデスクトップアプリが作れるライブラリAtom Shellを、Electronに改称](http://codezine.jp/article/detail/8678) - 公式リリースの簡単な日本語訳のようなものです。
+* [ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs) - Atom-shellの構造について書かれたドキュメントです。
+
 ## 類似ツール
 
 Electronと同じように以下のソフトウェアを使うことで、クロスプラットフォーム向けのデスクトップアプリケーションを作ることができます。ただ、Electronとまったく同じではありませんので作りたいものに応じて使い分けてください。
@@ -44,13 +53,12 @@ Electronと同じように以下のソフトウェアを使うことで、クロ
 * [node-webkit](https://github.com/nwjs/nw.js)
 * [MacGap](https://github.com/MacGapProject/MacGap1)
 
-## 参考サイト
 
-* [Atom Shell is now Electron](http://blog.atom.io/2015/04/23/electron.html) - Atom-shellからElectronに名前を変更したことのリリースです。
-* [GitHub、JavaScriptでデスクトップアプリが作れるライブラリAtom Shellを、Electronに改称](http://codezine.jp/article/detail/8678) - 公式リリースの簡単な日本語訳のようなものです。
-* [ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs) - Atom-shellの構造について書かれたドキュメントです。
 
-## ドキュメントの翻訳方法
+
+## その他
+
+### ドキュメントの翻訳方法
 
 `atom/electron.atom.io`で`atom/electron/docs`内の日本語翻訳については「[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)」で翻訳する手順は以下のようになっております。興味がある方はぜひ参加してください。
 
@@ -74,6 +82,11 @@ $ git checkout -b translate/<document>-jp
 $ cp /path/to/<document>.md /path/to/<document>-jp.md
 ```
 
+## タスク
+
+* [ ] 各ソフトウェアを比較した表作成
+* [ ] コントリビュートファイル作成
+
 ## コントリビュート
 
 このドキュメントの分かりにくい部分や質問がある際は、`README.md`内の該当箇所をコピーしてください。その後その文とともにissueを作成してください。気軽にissueを作成していただければ幸いです。
@@ -85,11 +98,6 @@ $ cp /path/to/<document>.md /path/to/<document>-jp.md
 
 Electronとは何ですか？
 ```
-
-## タスク
-
-* [ ] 各ソフトウェアを比較した表作成
-* [ ] コントリビュートファイル作成
 
 ## ライセンス
 
