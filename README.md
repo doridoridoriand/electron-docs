@@ -16,10 +16,10 @@ Electronはクロスプラットフォームアプリケーションシェル。
  * モジュール
  * 新しいDOM要素作成
  * 内部構成
-  * Main Process と Renderer Process
-  * Sandboxing化されない
-  * ChromiumとNode.js
-  * Main Process と Renderer Processのブリッジ
+    * Main Process と Renderer Process
+    * Sandboxing化されない
+    * ChromiumとNode.js
+    * Main Process と Renderer Processのブリッジ
 * リソース
  * 情報を得る方法
  * 類似ツール
