@@ -1,7 +1,5 @@
-# electron-docs
-=================
-
-> Documentation for Electron
+Documentation for Electron
+==========================
 
 >Electron is the cross-platform application shell we originally built for the Atom editor to handle the Chromium/Node.js event loop integration and native APIs.
 
@@ -49,6 +47,31 @@ Electronと同じように以下のソフトウェアを使うことで、クロ
 * [Atom Shell is now Electron](http://blog.atom.io/2015/04/23/electron.html) - Atom-shellからElectronに名前を変更したことのリリースです。
 * [GitHub、JavaScriptでデスクトップアプリが作れるライブラリAtom Shellを、Electronに改称](http://codezine.jp/article/detail/8678) - 公式リリースの簡単な日本語訳のようなものです。
 * [ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs) - Atom-shellの構造について書かれたドキュメントです。
+
+## ドキュメントの翻訳方法について
+
+[`atom/electron.atom.io`](https://github.com/atom/electron)で`atom/electron/docs`内の日本語翻訳については、[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)で翻訳する手順は以下のようになっております。
+
+また、今後誰もが簡単に翻訳ができるようにガイドラインを作成の作成についても[Create a guide for translation #28](https://github.com/atom/electron.atom.io/issues/28)で話し合っています。
+
+atom/electronをクローン：
+
+```bash
+$ git clone git@github.com:atom/electron.git
+```
+
+翻訳するドキュメントごとにブランチを作成：
+
+```bash
+$ git checkout -b translate/<document>-jp
+```
+
+翻訳するドキュメントごとに新しいファイルを作成：
+
+```bash
+$ cp /path/to/<document>.md /path/to/<document>-jp.md
+```
+
 
 ## タスク
 
