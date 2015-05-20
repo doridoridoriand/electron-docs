@@ -37,8 +37,6 @@ Electronの前の名前はAtom-shellです。名前を変えただけなので�
 * [#atom-shell](http://qiita.com/tags/atom-shell)
 * [#electron](http://qiita.com/tags/electron)
 
-**募集**：現在、[`atom/electron.atom.io`](https://github.com/atom/electron)で`atom/electron/docs`内の日本語翻訳について[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)で話し合っています。興味ある方はぜひ参加してください。
-
 ### 参考サイト
 
 * [Atom Shell is now Electron](http://blog.atom.io/2015/04/23/electron.html) - Atom-shellからElectronに名前を変更したことのリリースです。
@@ -86,6 +84,7 @@ $ cp /path/to/<document>.md /path/to/<document>-jp.md
 
 * [ ] 各ソフトウェアを比較した表作成
 * [ ] コントリビュートファイル作成
+* [ ] 英語版作成
 
 ## コントリビュート
 
