@@ -50,23 +50,23 @@ Electronと同じように以下のソフトウェアを使うことで、クロ
 
 ## ドキュメントの翻訳方法について
 
-[`atom/electron.atom.io`](https://github.com/atom/electron)で`atom/electron/docs`内の日本語翻訳については、[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)で翻訳する手順は以下のようになっております。
+`atom/electron.atom.io`で`atom/electron/docs`内の日本語翻訳については「[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)」で翻訳する手順は以下のようになっております。興味がある方はぜひ参加してください。
 
-また、今後誰もが簡単に翻訳ができるようにガイドラインを作成の作成についても[Create a guide for translation #28](https://github.com/atom/electron.atom.io/issues/28)で話し合っています。
+また、今後誰もが簡単に翻訳ができるようにガイドラインの作成についても「[Create a guide for translation #28](https://github.com/atom/electron.atom.io/issues/28)」で話し合っています。
 
-atom/electronをクローン：
+1\. atom/electronをクローン：
 
 ```bash
 $ git clone git@github.com:atom/electron.git
 ```
 
-翻訳するドキュメントごとにブランチを作成：
+2\. 翻訳するドキュメントごとにブランチを作成：
 
 ```bash
 $ git checkout -b translate/<document>-jp
 ```
 
-翻訳するドキュメントごとに新しいファイルを作成：
+3\. 翻訳するドキュメントごとに新しいファイルを作成：
 
 ```bash
 $ cp /path/to/<document>.md /path/to/<document>-jp.md
