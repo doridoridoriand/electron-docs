@@ -9,7 +9,7 @@ Electronはクロスプラットフォームアプリケーションシェル。
 
 ---
 
-Atom-shellの設計について書かれた[ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs)というドキュメンがあります。しかし現在メンテがされていないので一部情報の修正とその翻訳も含めてドキュメントを作成することにしました。
+Atom-shellの設計について書かれた[ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs)というドキュメンがありました。しかし現在メンテがされていないので一部情報の修正と追加、その翻訳も含めてドキュメントを作成することにしました。
 
 Electronについて勉強はしていますがすべてを知っているわけではありません。もし何かありましたらコントリビュートを参考にissueを作成していただくか、Twitterを[@sota0805](https://twitter.com/sota0805)でやっているのでコメントを頂ければと思います。
 
