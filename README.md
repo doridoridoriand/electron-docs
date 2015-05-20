@@ -7,7 +7,7 @@ TL;DR
 
 Electronはクロスプラットフォームアプリケーションシェル。もともとはChromium/Node.jsのevent loop integrationやネイティブAPIをAtomエディタで使うために作られました。
 
----
+--
 
 Atom-shellの設計について書かれた[ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs)というドキュメンがありました。しかし現在メンテがされていないので一部情報の修正と追加、その翻訳も含めてドキュメントを作成することにしました。
 
