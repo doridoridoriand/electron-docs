@@ -76,9 +76,7 @@ Electronと同じように以下のソフトウェアを使うことで、クロ
 
 ### ドキュメントの翻訳方法
 
-`atom/electron.atom.io`で`atom/electron/docs`内の日本語翻訳については「[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)」で翻訳する手順は以下のようになっております。興味がある方はぜひ参加してください。
-
-また、今後誰もが簡単に翻訳ができるようにガイドラインの作成についても「[Create a guide for translation #28](https://github.com/atom/electron.atom.io/issues/28)」で話し合っています。
+`atom/electron.atom.io`で`atom/electron/docs`内の日本語翻訳については「[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)　でその方法について話し合われ以下のように翻訳を行います。
 
 1\. atom/electronをクローン：
 
@@ -97,6 +95,8 @@ $ git checkout -b translate/<document>-jp
 ```bash
 $ cp /path/to/<document>.md /path/to/<document>-jp.md
 ```
+
+また、今後誰もが簡単に翻訳ができるようにガイドラインの作成についても「[Create a guide for translation #28](https://github.com/atom/electron.atom.io/issues/28)」で話し合っています。
 
 ## コントリビュート
 
