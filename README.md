@@ -108,12 +108,6 @@ $ cp /path/to/<document>.md /path/to/<document>-jp.md
 Electronとは何ですか？
 ```
 
-## タスク
-
-* [ ] 各ソフトウェアを比較した表作成
-* [ ] コントリビュートファイル作成
-* [ ] 英語版作成
-
 ## ライセンス
 
 MIT © Sota Yamashita
