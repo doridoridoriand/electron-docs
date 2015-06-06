@@ -1,6 +1,8 @@
 Documentation for Electron
 ==========================
 
+_Note: This document is written in Japanese. It will be English_
+
 TL;DR
 
 >Electron is the cross-platform application shell we originally built for the Atom editor to handle the Chromium/Node.js event loop integration and native APIs.
