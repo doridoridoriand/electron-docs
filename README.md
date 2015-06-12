@@ -69,14 +69,11 @@ Electronと同じように以下のソフトウェアを使うことで、クロ
 * [node-webkit](https://github.com/nwjs/nw.js)
 * [MacGap](https://github.com/MacGapProject/MacGap1)
 
-
-
-
 ## その他
 
 ### ドキュメントの翻訳方法
 
-`atom/electron.atom.io`で`atom/electron/docs`内の日本語翻訳については「[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)　でその方法について話し合われ以下のように翻訳を行います。
+`atom/electron.atom.io`で`atom/electron/docs`内の日本語翻訳については「[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)」でその方法について話し合われ翻訳は以下のようにします。
 
 1\. atom/electronをクローン：
 
