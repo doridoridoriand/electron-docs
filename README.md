@@ -11,9 +11,11 @@ Electronはクロスプラットフォームアプリケーションシェル。
 
 --
 
-Atom-shellの設計について書かれた[ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs)というドキュメンがありました。しかし現在メンテがされていないので一部情報の修正と追加、その翻訳も含めてドキュメントを作成することにしました。
+すでにオリジナルのレポジトリにドキュメントはあります。しかし、説明が少ないので難しいです。なのでここでは、オリジナルのドキュメントに書かれていることをより深く理解することができるようにさらに詳しく説明しています。
 
-Electronについて勉強はしていますがすべてを知っているわけではありません。もし何かありましたらコントリビュートを参考にissueを作成していただくか、Twitterを[@sota0805](https://twitter.com/sota0805)でやっているのでコメントを頂ければと思います。
+またすでにAtom-shellの設計についてとても詳しく書かれた「[ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs)」というドキュメンがありました。しかし現在メンテがされていないのでこのドキュメントでは一部情報の修正と追加、その翻訳も含めています。
+
+Electronについて勉強はしている途中なので、すべてを知っているわけではありません。もし何か間違いなどがありましたらコントリビュートを参考にissueを作成していただくか、Twitterを[@sota0805](https://twitter.com/sota0805)でやっているのでコメントを頂ければと思います。
 
 * Documentation for Electron
  * Electronとは
