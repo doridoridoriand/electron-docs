@@ -33,8 +33,7 @@ Electronについて勉強はしていますがすべてを知っているわけ
  * 類似ツール
  * 参考サイト
 * その他
- * ドキュメントの翻訳方法
-* コントリビュート
+ * コントリビュート
 * タスク
 * ライセンス
 
@@ -70,30 +69,6 @@ Electronと同じように以下のソフトウェアを使うことで、クロ
 * [MacGap](https://github.com/MacGapProject/MacGap1)
 
 ## その他
-
-### ドキュメントの翻訳方法
-
-`atom/electron.atom.io`で`atom/electron/docs`内の日本語翻訳については「[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)」でその方法について話し合われ翻訳は以下のようにします。
-
-1\. atom/electronをクローン：
-
-```bash
-$ git clone git@github.com:atom/electron.git
-```
-
-2\. 翻訳するドキュメントごとにブランチを作成：
-
-```bash
-$ git checkout -b translate/<document>-jp
-```
-
-3\. 翻訳するドキュメントごとに新しいファイルを作成：
-
-```bash
-$ cp /path/to/<document>.md /path/to/<document>-jp.md
-```
-
-また、今後誰もが簡単に翻訳ができるようにガイドラインの作成についても「[Create a guide for translation #28](https://github.com/atom/electron.atom.io/issues/28)」で話し合っています。
 
 ## コントリビュート
 
