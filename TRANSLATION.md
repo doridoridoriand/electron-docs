@@ -5,9 +5,9 @@ _Note: This docs is written in Japanese_
 
 * Translation Note
 * Note for Japanese
- * [チュートリアル](チュートリアル)
-  * [クイックスタート](#クイックスタート)
- * [翻訳メモ](#翻訳メモ)
+  * [チュートリアル](チュートリアル)
+    * [クイックスタート](#クイックスタート)
+  * [翻訳メモ](#翻訳メモ)
 
 # Note for Japanese
 
