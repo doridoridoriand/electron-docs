@@ -1,7 +1,7 @@
 Documentation for Electron
 ==========================
 
-_Note: This document is written in Japanese. It will be English_
+_Note: This document is written in Japanese now. It will be English_
 
 TL;DR
 
